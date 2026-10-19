@@ -60,7 +60,7 @@ export default function AboutPage() {
               <sup>3</sup>
             </span>
             <span>
-              shout outs to shubham, sahana, agasthya, douglas, shayaan, tejas, mukund, 
+              shout outs to shubham, sahana, agasthya, douglas, shayaan, divij, tejas, mukund, 
               hawa, shah, arindam, aditi, vid, andy, paul, ricky, sahiti, gagan, suraj,
               dieter, aditi, ishani, ishan, agastya, matthew, arisha, and many
               more... (unordered/unexaustive. if you think you belong here,

@@ -4,14 +4,14 @@
     "title": "keytar",
     "kind": "video",
     "src": "/projects/media/keytar.mp4",
-    "caption": "won grand prize at my first-ever hackathon by building an interface for my laptop using an electric guitar. demo was also minecraft! shout out to shubham"
+    "caption": "won grand prize at my first-ever hackathon by interfacing my laptop with an electric guitar. demo was also minecraft! shout out to shubham"
   },
   {
     "id": "maccordion",
     "title": "maccordion",
     "kind": "video",
     "src": "/projects/media/maccordion.mp4",
-    "caption": "converted my mac into an accordion/harmonium. afaik i was the first person to utilize the hinge sensor this way, but i never posted about it and a few months later someone else went viral for the same exact thing sob"
+    "caption": "(sound on!) converted my mac into an accordion/harmonium. afaik i was the first person to utilize the hinge sensor this way, but i never posted about it and a few months later someone else went viral for the same exact thing sob -- lesson to be learned i suppose"
   },
   {
     "id": "lightmap",
@@ -33,7 +33,7 @@
     "title": "aband1d",
     "kind": "website",
     "src": "https://www.aband1d.com/",
-    "caption": "a site for urban explorers and taggers to find points of interest via satellite imagery",
+    "caption": "a tool for urban explorers and taggers to find points of interest via satellite imagery",
     "link": "https://aband1d.com"
   },
   {
@@ -42,7 +42,7 @@
     "kind": "website",
     "src": "https://www.thismachinebuildsthefuture.com/",
     "caption": "a collective experiment in ai behavior: every visitor shares how they think ai should behave, and those contributions shape a chatbot's evolving system prompt.",
-    "link": "https://thismachinebuildsthefuture.com/manifesto"
+    "link": "https://www.thismachinebuildsthefuture.com/"
   },
   {
     "id": "cook",

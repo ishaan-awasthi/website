@@ -1,4 +1,5 @@
 import Philosophy, { title as philosophyTitle } from "../articles/philosophy";
+import Very, { title as veryTitle } from "../articles/very";
 import NobodysHungryEveryonesStarving, { title as nobodysHungryEveryonesStarvingTitle } from "../articles/nobodys-hungry-everyones-starving";
 import FunFacts, { title as funFactsTitle } from "../articles/fun-facts";
 import HackedBill, { title as hackedBillTitle } from "../articles/hacked-bill";
@@ -6,10 +7,11 @@ import HouseholdNames, { title as householdNamesTitle } from "../articles/househ
 
 const articles = {
   "1": { title: philosophyTitle, Content: Philosophy },
-  "2": { title: nobodysHungryEveryonesStarvingTitle, Content: NobodysHungryEveryonesStarving },
+  "2": { title: veryTitle, Content: Very },
   "3": { title: funFactsTitle, Content: FunFacts },
   "4": { title: hackedBillTitle, Content: HackedBill },
   "5": { title: householdNamesTitle, Content: HouseholdNames },
+  "6": { title: nobodysHungryEveryonesStarvingTitle, Content: NobodysHungryEveryonesStarving },
 };
 
 export function generateStaticParams() {
