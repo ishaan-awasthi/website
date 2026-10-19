@@ -27,7 +27,7 @@ export default function AboutPage() {
         </p>
         <p>
           that brings us to the present. these days, i'm studying cs at the university of washington, with interests spanning
-          theoretical neuroscience and self-organizing systems. i
+          theoretical neuroscience, self-organizing systems, evolutionary computing, and artificial life. i
           spend my free time in seattle asking myself "what if?" and diving
           headfirst into finding out the answer. if that sounds like you too, we
           should talk -- reach out!<sup>4</sup>
