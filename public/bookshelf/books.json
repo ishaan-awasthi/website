@@ -1,0 +1,86 @@
+{
+  "salmonofdoubt.png": {
+    "title": "The Salmon of Doubt",
+    "author": "Douglas Adams",
+    "year": "2002",
+    "summary": "A posthumous collection of Douglas Adams's unfinished novel, essays, speeches, and correspondence.",
+    "thoughts": "i'm a big fan of the hitchhiker's guide to the galaxy, and douglas adams' sense of humor in general -- so i'd never pass down a chance to read more of his work. found this at halfpricebooks and it was an immediate cop."
+  },
+  "bible.png": {
+    "title": "Holy Bible",
+    "author": "???",
+    "year": "???",
+    "summary": "The New Testament, King James edition.",
+    "thoughts": "some street evangelist in uw's red square offered me his own copy. i was going to decline, but i saw post-it notes sticking out and got curious what the guy chose to highlight. put it right next to \"the system of materialism\" on my bookshelf because symmetry"
+  },
+  "systemofmaterialism.png": {
+    "title": "The System of Materialism",
+    "author": "???",
+    "year": "???",
+    "summary": "Three anonymous manuscripts on atheistic metaphysics, clandestinely distributed across 1700s Europe.",
+    "thoughts": "picked this up back in my cynical teenage atheistic phase"
+  },
+  "makesomethingwonderful.png": {
+    "title": "Make Something Wonderful",
+    "author": "Steve Jobs Archive",
+    "year": "2023",
+    "summary": "Jobs in his own words, assembled from speeches, interviews, emails, and internal notes across his life and work.",
+    "thoughts": "beautiful collector's edition, shout out to avi"
+  },
+  "thethirddoor.png": {
+    "title": "The Third Door",
+    "author": "Alex Banayan",
+    "year": "2018",
+    "summary": "A college dropout, freshly in pursuit of meaning, tracks down the likes of Bill Gates, Warren Buffett, and Steven Spielberg to learn their shared secret mentality toward success.",
+    "thoughts": "for how much i quote this book i really should read it lmao"
+  },
+  "jonathanlivingston.png": {
+    "title": "Jonathan Livingston Seagull",
+    "author": "Richard Bach",
+    "year": "1970",
+    "summary": "A short fable about a seagull obsessed with flying for flying's sake.",
+    "thoughts": "i remember finding this as a kid and thinking it was one of the weirdest stories i'd ever read. all these years later, i agree with myself. why is the seagull teleporting??\n\ncool photos"
+  },
+  "geb.png": {
+    "title": "Gödel, Escher, Bach",
+    "author": "Douglas R. Hofstadter",
+    "year": "1979",
+    "summary": "A sprawling puzzle-box about self-referential loops, overlaps between math/art/music, and how cognition and consciousness emerge from hidden neurological mechanisms.",
+    "thoughts": "this one honestly didn't need the introduction. you've heard of it, i've heard of it, neither of us have fully read it.\n\n(i promise i will soon)"
+  },
+  "clockofthelongnow.png": {
+    "title": "The Clock of the Long Now",
+    "author": "Stewart Brand",
+    "year": "1999",
+    "summary": "A case for thinking on civilizational timescales, framed around the engineering of a 10,000-year clock; the table of contents itself is enumerated in seconds.",
+    "thoughts": "i bought this book for a literal dollar at a uw library flash sale, mostly based on the title alone. little did i know that the author was the same guy behind the \"whole earth catalog\" that steve jobs always used to glaze, not to mention him being a familiar face from the cybernetics world.\n\nbrand touches on a lot of ideas, ranging from the need for long-long-term responsibility to the psychological effect of the far future. the most interesting idea to me was \"pace layers\" -- the idea that civilization is stack of systems operating on radically different timescales depending on the lens: fashion, commerce, infrastructure, nature... i'm curious how it could connect to the multiple temporal hierarchy active predictive coding.\n\ntbh haven't finished this one yet either, i'll write here with my full thoughts once i do"
+  },
+  "justforfun.png": {
+    "title": "Just for Fun",
+    "author": "Linus Torvalds",
+    "year": "2001",
+    "summary": "Linus's thoughts on his early life, last name, the beginnings of Linux, and the strange satisfactions of building a thing because it is interesting.",
+    "thoughts": "linus is a very interesting character. i've always been a mild fan, so when i heard he had a autobiography i bought it immediately. i did not consider that my reading list was already a very long queue. i hope i can get to this soon"
+  },
+  "dictionary.png": {
+    "title": "The Dictionary of Obscure Sorrows",
+    "author": "John Koenig",
+    "year": "2021",
+    "summary": "An invented dictionary for emotions that don't have a name in the English language, complete with proper definitions and etymologies.",
+    "thoughts": "i first came across this project when i was in the eigth grade, and i've been following it religiously ever since. koenig's words and videos had a huge impact on me, and i give him partial credit for the person i am/try to be today.\n\ni'd only ever seen koenig's youtube series (highly recommend, they are works of art) but for my 19th birthday, my girlfriend arisha got me a physical copy of the dictionary. best gift i've ever received."
+  },
+  "zen.png": {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "year": "1974",
+    "summary": "A strange mix of road trip narration, philosophical argument, ghost story, metaphorical motorcycle maintenance tips, and actual motorcycle maintenance tips.",
+    "thoughts": "really good from what i read but i ended up dropping it after a few chapters. i'll come back to it eventually and leave my thoughts here when i do!"
+  },
+  "emergence.png": {
+    "title": "Emergence",
+    "author": "Steven Johnson",
+    "year": "2001",
+    "summary": "An exploration of how complex behavior can arise from simple \"dumb\" local interactions, from ant colonies and brains to cities and software.",
+    "thoughts":"my original exposure to complexity theory was igor's cybernetics symposium in summer 2025. since then i've been kinda obsessed with how lower-level interaction can yield higher-order complexity -- and crucially, how we can nudge emergent qualities toward a desired behavior.\n\nthis book was the perfect jump in, offering a compelling introduction to the history (and general vibes) of self-organizing systems. johnson has some witty lines and picked some great examples, even if he does tend to be a little circular. overall strong recommend!"
+  }
+}

@@ -1,0 +1,1 @@
+export default function MiscellanyPage() { return <main className="page"><section className="index-list stub-page"><h1>miscellany</h1><p className="article-placeholder">nothing here yet</p></section><a className="back-link" href="/things">back</a></main>; }

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "keytar",
+    "title": "keytar",
+    "kind": "video",
+    "src": "/projects/media/keytar.mp4",
+    "caption": "won grand prize at my first-ever hackathon by building an interface for my laptop using an electric guitar. demo was also minecraft! shout out to shubham"
+  },
+  {
+    "id": "maccordion",
+    "title": "maccordion",
+    "kind": "video",
+    "src": "/projects/media/maccordion.mp4",
+    "caption": "converted my mac into an accordion/harmonium. afaik i was the first person to utilize the hinge sensor this way, but i never posted about it and a few months later someone else went viral for the same exact thing sob"
+  },
+  {
+    "id": "lightmap",
+    "title": "lightmap",
+    "kind": "video",
+    "src": "/projects/media/lightmap.mp4",
+    "caption": "a lightweight* algo for 3d proj of 2d images (*via light intensity, so pun intended)"
+  },
+  {
+    "id": "zenbuddies",
+    "title": "zenbuddies",
+    "kind": "video",
+    "src": "/projects/media/zenbuddies.mp4?v=2",
+    "caption": "a mental health chatbot that somehow won a national dev competition and got me flown out to washington dc to present to congress. what the fuck?",
+    "link": "https://www.congressionalappchallenge.us/24-ca14/"
+  },
+  {
+    "id": "aband1d",
+    "title": "aband1d",
+    "kind": "website",
+    "src": "https://www.aband1d.com/",
+    "caption": "a site for urban explorers and taggers to find points of interest via satellite imagery",
+    "link": "https://aband1d.com"
+  },
+  {
+    "id": "this-machine-builds-the-future",
+    "title": "this machine builds the future",
+    "kind": "website",
+    "src": "https://www.thismachinebuildsthefuture.com/",
+    "caption": "a collective experiment in ai behavior: every visitor shares how they think ai should behave, and those contributions shape a chatbot's evolving system prompt.",
+    "link": "https://thismachinebuildsthefuture.com/manifesto"
+  },
+  {
+    "id": "cook",
+    "title": "cook",
+    "kind": "website",
+    "src": "/projects/cook/readme.html",
+    "caption": "a programming language where programs read like cookbook recipes. built on java, with forgiving english syntax and a small standard library. bon appétit!",
+    "link": "https://github.com/ishaan-awasthi/COOK/tree/main"
+  }
+]
