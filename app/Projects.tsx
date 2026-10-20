@@ -12,7 +12,7 @@ function ProjectMedia({ project, preview = false }: { project: Project; preview?
 
   return (
     <iframe
-      src={project.src}
+      src={project.id === "cook" && preview ? `${project.src}?preview=1` : project.src}
       title={`${project.title} preview`}
       className={preview && project.kind === "website" ? "project-site-preview" : undefined}
       loading="eager"

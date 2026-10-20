@@ -4,14 +4,14 @@
     "title": "keytar",
     "kind": "video",
     "src": "/projects/media/keytar.mp4",
-    "caption": "won grand prize at my first-ever hackathon by interfacing my laptop with an electric guitar. demo was also minecraft! shout out to shubham"
+    "caption": "(sound on!) won grand prize at my first-ever hackathon by interfacing my laptop with an electric guitar. demo was also minecraft! shout out to shubham"
   },
   {
     "id": "maccordion",
     "title": "maccordion",
     "kind": "video",
     "src": "/projects/media/maccordion.mp4",
-    "caption": "(sound on!) converted my mac into an accordion/harmonium. afaik i was the first person to utilize the hinge sensor this way, but i never posted about it and a few months later someone else went viral for the same exact thing sob -- lesson to be learned i suppose"
+    "caption": "(sound on!) converted my mac into an accordion/harmonium. afaik i was the first person to utilize the hinge sensor this way, but i never posted about it and a few months later someone else went viral for the same exact thing :( also i broke my hinge doing this"
   },
   {
     "id": "lightmap",
@@ -50,6 +50,6 @@
     "kind": "website",
     "src": "/projects/cook/readme.html",
     "caption": "a programming language where programs read like cookbook recipes. built on java, with forgiving english syntax and a small standard library. bon appétit!",
-    "link": "https://github.com/ishaan-awasthi/COOK/tree/main"
+    "link": "https://github.com/ishaan-awasthi/COOK"
   }
 ]

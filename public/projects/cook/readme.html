@@ -4,10 +4,26 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>COOK — README</title>
+<script>
+  if (new URLSearchParams(location.search).get("preview") === "1") {
+    document.documentElement.classList.add("preview");
+  }
+</script>
 <style>
 * { box-sizing: border-box; }
 body { margin: 0; padding: 36px; background: #f8f7f3; color: #1f2328; font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; overflow-wrap: anywhere; }
 article { max-width: 900px; margin: auto; }
+.repo-heading { margin-bottom: 28px; padding-bottom: 16px; border-bottom: 1px solid #d1d9e0; }
+.repo-heading a { font-size: 22px; text-decoration: none; }
+.repo-heading p { margin: 12px 0 0; color: #59636e; font-size: 14px; }
+.preview { overflow: hidden; }
+.preview body { overflow: hidden; }
+.preview article { animation: readme-pan 180s linear infinite alternate; }
+@keyframes readme-pan {
+  from { transform: translateY(0); }
+  to { transform: translateY(min(0px, calc(100vh - 72px - 100%))); }
+}
+@media (prefers-reduced-motion: reduce) { .preview article { animation: none; } }
 h1, h2 { padding-bottom: .3em; border-bottom: 1px solid #d1d9e0; line-height: 1.25; }
 h1 { font-size: 2em; } h2 { font-size: 1.5em; }
 a { color: #0969da; } img { max-width: 100%; height: auto; }
@@ -21,7 +37,9 @@ ul, ol { padding-left: 2em; }
 </head>
 <body>
 <!-- Snapshot of ishaan-awasthi/COOK README. GitHub disallows direct iframe embedding. -->
-<div id="readme" class="md" data-path="README.md"><article class="markdown-body entry-content container-lg" itemprop="text"><blockquote>
+<div id="readme" class="md" data-path="README.md"><article class="markdown-body entry-content container-lg" itemprop="text">
+<header class="repo-heading"><a href="https://github.com/ishaan-awasthi/COOK" target="_blank" rel="noopener noreferrer">ishaan-awasthi / <strong>COOK</strong></a><p>README.md</p></header>
+<blockquote>
 <p dir="auto">"Why programmers like cooking: you peel the carrot, you chop the carrot, and you put the carrot in the stew.  You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3." —Randall Koutnik</p>
 </blockquote>
 <p align="center" dir="auto">
